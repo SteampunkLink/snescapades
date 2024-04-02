@@ -1,0 +1,94 @@
+.entryListItem h2 {
+  color: #d17002;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+  padding: 5px;
+  text-align: center;
+  transition: 0.5s;
+}
+.entryListItem h2:hover {
+  color: #b5b6e4;
+}
+.entryListItemHead {
+  color: #908a99;
+  display: flex;
+  flex-direction: row;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  justify-content: space-between;
+}
+
+.entryListItemContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.entryListItemImg {
+  height: 75%;
+  margin: 0 auto;
+  max-width: 350px;
+  width: 50%;
+}
+.entryListItemImg img {
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+}
+.entryListItemExcerpt {
+  margin: 0 auto;
+  width: 40%;
+}
+.entryListItemExcerpt iframe {
+  display: block;
+  margin: 5px auto;
+  width: 95%;
+}
+.entryListItemExcerpt h3 {
+  color: #b5b6e4;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+}
+.entryListItemExcerpt li {
+  font-family: "Audiowide", Helvetica, sans-serif;
+  margin: 6px;
+}
+
+.entryListItemFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5px;
+}
+.entryListItemFooter span {
+  align-items: center;
+  color: #908a99;
+  display: flex;
+  flex-direction: column;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  text-align: center;
+}
+.entryListItemFooter span i {
+  padding: 5px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .entry-list {
+    width: 100%;
+  }
+}
+
+@media (max-width: 750px) {
+  .entryListItemImg {
+    width: 40%;
+  }
+  .entryListItemExcerpt {
+    text-align: center;
+    width: 55%;
+  }
+}
+
+@media (max-width: 500px) {
+  .entryListItemImg {
+    display: none;
+  }
+  .entryListItemExcerpt {
+    width: 100%;
+  }
+}

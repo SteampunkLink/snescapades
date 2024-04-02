@@ -1,0 +1,22 @@
+.entryBlog div {
+  font-size: 1.1em;
+}
+.entryBlog p {
+  margin: 12px 8px;
+}
+.entryBlog p a {
+  color: #0a98c7;
+  transition: 0.5s;
+}
+.entryBlog p a:hover {
+  color: #aaff30;
+}
+.entryBlog h3 {
+  color: #d17002;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+  text-align: center;
+}
+
+.entryBlog img {
+  width: 80%;
+}

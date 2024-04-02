@@ -1,0 +1,61 @@
+.sidebar {
+  margin-bottom: 10px;
+}
+.sidebarDisplay {
+  height: 100%;
+}
+.sidebarDisplay ul li {
+  color: #d17002;
+  display: block;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  margin: 0.5em;
+  transition: 0.25s;
+}
+.sidebarDisplay ul li:hover {
+  color: #b5b6e4;
+  cursor: pointer;
+}
+.selected {
+  color: #888;
+  pointer-events: none;
+}
+.selected a {
+  pointer-events: none;
+}
+
+.sidebarLabel {
+  color: #b5b6e4;
+  height: 10px;
+}
+
+.sidebarSocialGroups {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sidebarSocialBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.sidebarSocialBox li {
+  font-size: 1.5em;
+}
+
+@media (max-width: 750px) {
+  .sidebar {
+    margin-bottom: 0;
+  }
+  .sidebar:first-child ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .sidebarSocialBox li {
+    font-size: 1.2em;
+  }
+}

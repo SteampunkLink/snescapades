@@ -1,0 +1,261 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+@import url("https://fonts.googleapis.com/css?family=Glegoo");
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  background: black;
+  line-height: 1;
+}
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* CUSTOM */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+input[type="submit"],
+input[type="reset"],
+.hp-btn {
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: block;
+  padding: 1em 2em;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 1em;
+  text-align: center;
+  transition: background 250ms ease-in-out, transform 150ms ease;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+input[type="submit"],
+input[type="reset"],
+.hp-btn:focus {
+  box-shadow: 0px 0px 5px, 5px, #d17002;
+  outline: none;
+}
+input[type="submit"],
+input[type="reset"],
+.hp-btn:active {
+  transform: scale(0.99);
+}
+.nav-btn {
+  background-color: transparent;
+  border: none;
+  color: #908a99;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  font-size: 1em;
+}
+.nav-btn:hover {
+  color: #b5b6e4;
+  cursor: pointer;
+}
+.single-link-btn {
+  background-color: #d17002;
+  color: #111919;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  margin: 1.1em;
+  transition: 0.5s;
+}
+.youtube-btn {
+  background-color: #991605;
+  color: white;
+  margin: 6px;
+}
+.single-link-btn:focus,
+.single-link-btn:hover {
+  background-color: #cec9cc;
+}
+.disabled-btn {
+  background-color: black;
+  color: #908a99;
+  pointer-events: none;
+}
+.a-rank {
+  background: rgb(255, 121, 121);
+}
+.a-rank:hover {
+  background: rgb(202, 80, 80);
+}
+.b-rank {
+  background: rgb(255, 193, 121);
+}
+.b-rank:hover {
+  background: rgb(245, 164, 71);
+}
+.c-rank {
+  background: rgb(255, 242, 121);
+}
+.c-rank:hover {
+  background: rgb(243, 225, 63);
+}
+.d-rank {
+  background: rgb(164, 255, 121);
+}
+.d-rank:hover {
+  background: rgb(119, 243, 61);
+}
+.f-rank {
+  background: rgb(130, 121, 255);
+}
+.f-rank:hover {
+  background: rgb(85, 74, 241);
+}
+.u-rank {
+  background: rgb(170, 170, 170);
+}
+.u-rank:hover {
+  background: rgb(209, 193, 193);
+}
+
+/* 
+Fonts
+  --main-font: "Audiowide", Helvetica, sans-serif;
+  --article-text: "Glegoo", Times, serif;
+  --accent-text: "Press Start 2P", Helvetica, sans-serif;
+
+Colors
+  --background-color: #343840;
+  --card-color: #111919;
+  --text-color: #dbdbdb;
+  --accent-color: #d17002;
+
+  --hp-red: #c7390a;
+  --hp-green: #39c70a;
+  --hp-blue: #0a98c7;
+  --hp-yellow: #aaff30;
+  --snes-purple: #4f43ae;
+  --snes-blue: #b5b6e4;
+  --snes-gray: #908a99;
+  --snes-lite: #cec9cc;
+
+Size
+  --hp-max-width: 1148px;
+  --hp-small-screen: 1000px;
+  --hp-phone-screen: 700px;
+  --card-margin: 0.5em 0;
+  --card-padding: 8px; */

@@ -1,0 +1,19 @@
+.displayBox {
+  background: #111919;
+  border: #d17002 1px solid;
+  box-sizing: border-box;
+  color: #dbdbdb;
+  display: block;
+  margin: 0.5em 0;
+  padding: 8px;
+}
+
+.displayBox h2 {
+  color: #d17002;
+  margin: 5px;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+  text-align: center;
+}
+.displayBox p {
+  text-align: center;
+}

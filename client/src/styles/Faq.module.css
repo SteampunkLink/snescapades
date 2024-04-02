@@ -1,0 +1,12 @@
+.faqQuestion {
+  color: #d17002;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  font-size: 1.3em;
+  margin: 8px;
+}
+
+.faqAnswer {
+  color: #b5b6e4;
+  font-size: 1.2em;
+  margin: 8px;
+}

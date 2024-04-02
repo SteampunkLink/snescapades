@@ -1,0 +1,36 @@
+.rankCtrlBtns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.rankCtrlBtns button {
+  margin: 8px;
+}
+
+.rankContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-family: "Audiowide", Helvetica, sans-serif;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.singleRank {
+  width: 40%;
+}
+
+.singleRank h3 {
+  color: black;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+  margin: 4px 0;
+  padding: 8px;
+  text-align: center;
+}
+
+.singleRank ul li:nth-child(even) {
+  color: #b5b6e4;
+  margin: 5px 0;
+}

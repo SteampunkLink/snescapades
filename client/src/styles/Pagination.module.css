@@ -1,0 +1,30 @@
+.pagination {
+  align-items: center;
+  color: #d17002;
+  display: flex;
+  flex-direction: row;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+  font-size: 2em;
+  justify-content: center;
+}
+.pagination a {
+  border-radius: 5px;
+  color: #d17002;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5em;
+  margin: 5px;
+  padding: 0;
+  transition: 0.5s;
+}
+.pagination a:hover {
+  color: #b5b6e4;
+}
+.paginationDiabledLink {
+  color: #908a99;
+  pointer-events: none;
+}
+
+.pagination p {
+  margin: 0 15px 0 15px;
+}

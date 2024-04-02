@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  background: #111919;
+  border-bottom: #d17002 3px solid;
+  color: #dbdbdb;
+  font-size: 1.2em;
+  height: 7vh;
+}
+.headerInner {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1148px;
+  width: 90%;
+}
+.headerLeft {
+  color: #d17002;
+  font-family: "Press Start 2P", Helvetica, sans-serif;
+}
+.headerLeft:hover {
+  color: var(--snes-purple);
+}
+
+.headerRight {
+  color: var(--snes-gray);
+  font-family: var(--main-font);
+}
+
+@media (max-width: 900px) {
+  .header {
+    display: initial;
+    border-bottom: var(--accent-color) 3px solid;
+    text-align: center;
+  }
+  .headerInner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
