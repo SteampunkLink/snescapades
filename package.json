@@ -4,10 +4,12 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server/server.ts",
+    "start": "export NODE_ENV=PRODUCTION && node server/dist/server.js",
     "server": "nodemon server/server.ts",
     "client": "npm run dev --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "tsc": "tsc --project ./server",
+    "build": "npm install && npm install --prefix client && npm run tsc && npm run build --prefix client"
   },
   "author": "",
   "license": "ISC",

@@ -27,10 +27,11 @@ const dirname = path.resolve();
 app.use("/images", express.static(path.join(dirname, "/images")));
 app.use("/markdown", express.static(path.join(dirname, "/markdown")));
 
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname, "/frontend/dist")));
+if (process.env.NODE_ENV === "PRODUCTION") {
+  const rootDirectory = path.join(__dirname, "..", "..", "client", "dist");
+  app.use(express.static(rootDirectory));
   app.get("*", (req, res) => {
-    res.sendFile(path.resolve(__dirname, "frontend", "dist", "index.html"));
+    res.sendFile(path.resolve(rootDirectory, "index.html"));
   });
 } else {
   app.get("/", (req, res) => {
