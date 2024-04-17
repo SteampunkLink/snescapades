@@ -247,6 +247,37 @@ const snescapadesEps = [
     altText: playingWithPowerAlt("15th", "September 1991"),
     isPublished: true,
   },
+  {
+    episodeTitle: "Playing with Power: September 1991 (Part 2)",
+    episodeNumber: 16,
+    length: "53:46",
+    published: new Date(2024, monthEnum.mar, 28),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-September-1991-Part-2-e2hn991",
+    youtubeURL: "https://youtu.be/djpD_crcy_c",
+    image: "016_Cover.jpg",
+    blog: "016_pwp_sept_91_2.md",
+    altText: playingWithPowerAlt("15th", "September 1991"),
+    isPublished: true,
+  },
+  {
+    episodeTitle: "U.N. Squadron Edition",
+    episodeNumber: 17,
+    length: "45:36",
+    published: new Date(2024, monthEnum.apr, 4),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/UN-Squadron-Edition-e2i1ajb",
+    youtubeURL: "https://youtu.be/3ycw8ITRaro",
+    image: "017_Cover.jpg",
+    blog: "017_un_squadron.md",
+    games: [27, 28, 29],
+    altText: snescapadesAlt(
+      "17th",
+      "the three selectable characters from UN Squadron",
+      '"UN Squadron", "Super R-Type", and "Drakkhen"'
+    ),
+    isPublished: true,
+  },
 ];
 
 export default snescapadesEps;
