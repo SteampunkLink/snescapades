@@ -31,6 +31,7 @@ interface formatEpisodeResult {
   blog: string;
   games?: number[];
   altText: string;
+  topics?: string[];
   isPublished: boolean;
   // series
   type: string;

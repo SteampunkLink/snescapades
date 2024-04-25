@@ -33,36 +33,52 @@ const EntryListItem = ({ entry }: EntryListItemProps) => {
         <div className={styles.entryListItemImg}>
           <img src={`/images/${entry.image}`} alt={entry.altText} />
         </div>
-        <div className={styles.entryListItemExcerpt}>
-          <PodcastDisplay source={entry.embedURL} />
-          {entry.formattedGames?.length ? (
-            <>
-              <h3>Games Discused</h3>
-              <ul>
-                {entry.formattedGames.map((g) => (
-                  <li key={g.index}>{g.gameTitle}</li>
-                ))}
-              </ul>
-            </>
-          ) : null}
-          {entry.youtubeURL && (
-            <a href={entry.youtubeURL} target="_blank">
-              <div className="hp-btn single-link-btn youtube-btn">
-                Watch/Comment on YouTube
-              </div>
-            </a>
-          )}
-        </div>
-      </div>
-      <div className={styles.entryListItemFooter}>
-        <span>
-          <FaCalendar />
-          <DateDisplay date={entry.published} />
-        </span>
-        <span>
-          <FaClock />
-          <p>{entry.length}</p>
-        </span>
+        <div className={styles.entryListItemDetails}>
+          <div className={styles.entryListItemTopBlock}>
+            <PodcastDisplay source={entry.embedURL} />
+            {entry.formattedGames?.length ? (
+              <>
+                <h3>Games Discused</h3>
+                <ul>
+                  {entry.formattedGames.map((g) => (
+                    <li key={g.index}>{g.gameTitle}</li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
+            {entry.topics?.length ? (
+              <>
+                <h3>Topics</h3>
+                <ul>
+                  {entry.topics.map((t, idx) => (
+                    <li key={idx}>{t}</li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
+          </div>
+          <div className={styles.entryListItemBottomBlock}>
+            {entry.youtubeURL && (
+              <a href={entry.youtubeURL} target="_blank">
+                <div className="hp-btn single-link-btn youtube-btn">
+                  Watch/Comment on YouTube
+                </div>
+              </a>
+            )}
+            <div className={styles.entryListItemFooter}>
+              <span>
+                <FaCalendar />
+                <DateDisplay date={entry.published} />
+              </span>
+              <span>
+                <FaClock />
+                <p>{entry.length}</p>
+              </span>
+            </div>
+          </div>{" "}
+          {/* end entryListItemBottomBlock */}
+        </div>{" "}
+        {/* end entryListItemDetails */}
       </div>
     </article>
   );
