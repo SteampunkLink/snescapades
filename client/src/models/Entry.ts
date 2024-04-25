@@ -18,5 +18,6 @@ export default interface Entry {
   type: string;
   seriesTitle: string;
   slug: string;
+  topics?: string[];
   formattedGames?: formatEpisodeResultGames[];
 }

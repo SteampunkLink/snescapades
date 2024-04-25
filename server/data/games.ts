@@ -36,7 +36,7 @@ const allGames = [
     manualURL: "https://archive.org/details/total-carnage-usa",
     mobyURL: "https://www.mobygames.com/game/15506/total-carnage/",
     rank: "C",
-  },
+  }, // 5
   {
     gameTitle: "Clay Fighter",
     manualURL: "https://archive.org/details/clay-fighter-usa",
@@ -67,7 +67,7 @@ const allGames = [
     manualURL: "https://archive.org/details/super-mario-world-usa",
     mobyURL: "https://www.mobygames.com/game/6591/super-mario-world/",
     rank: "A",
-  },
+  }, //10
   {
     gameTitle: "F-Zero",
     manualURL: "https://archive.org/details/f-zero-usa",
@@ -97,7 +97,7 @@ const allGames = [
     manualURL: "https://archive.org/details/battle-cars-usa",
     mobyURL: "https://www.mobygames.com/game/32593/battle-cars/",
     rank: "C",
-  },
+  }, //15
   {
     gameTitle: "Super Chase H.Q.",
     manualURL: "https://archive.org/details/super-chase-h.-q-pal",
@@ -131,7 +131,7 @@ const allGames = [
     manualURL: "https://archive.org/details/inspector-gadget-usa",
     mobyURL: "https://www.mobygames.com/game/21517/inspector-gadget/",
     rank: "B",
-  },
+  }, //20
   {
     gameTitle: "Art of Fighting",
     manualURL: "https://archive.org/details/art-of-fighting-usa",
@@ -163,7 +163,7 @@ const allGames = [
     manualURL: "https://archive.org/details/soldiers-of-fortune-usa",
     mobyURL: "https://www.mobygames.com/game/933/soldiers-of-fortune/",
     rank: "C",
-  },
+  }, //25
   {
     gameTitle: "Lufia and the Fortress of Doom",
     manualURL: "https://archive.org/details/lufia-the-fortress-of-doom-usa",
@@ -187,6 +187,227 @@ const allGames = [
     manualURL: "https://archive.org/details/drakkhen-usa/mode/2up",
     mobyURL: "https://www.mobygames.com/game/1969/drakkhen/",
     rank: "D",
+  },
+  {
+    gameTitle: "Championship Pool",
+    manualURL: "https://archive.org/details/championship-pool-usa",
+    mobyURL: "https://www.mobygames.com/game/32633/championship-pool/",
+    rank: "D",
+  }, //30
+  {
+    gameTitle: "Actraiser 2",
+    manualURL: "https://archive.org/details/act-raiser-2-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/6797/actraiser-2/",
+    rank: "F",
+  },
+  {
+    gameTitle: "BioMetal",
+    manualURL: "https://archive.org/details/bio-metal-pal",
+    mobyURL: "https://www.mobygames.com/game/18616/biometal/",
+    rank: "C",
+  },
+  {
+    gameTitle: "International Tennis Tour",
+    manualURL:
+      "https://archive.org/details/international-tennis-tour-pal/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/18298/davis-cup-tennis/",
+    rank: "C",
+  },
+  {
+    gameTitle: "Lamborghini American Challenge",
+    manualURL:
+      "https://archive.org/details/lamborghini-american-challenge-pal/mode/2up",
+    mobyURL:
+      "https://www.mobygames.com/game/783/lamborghini-american-challenge/",
+    rank: "B",
+  },
+  {
+    gameTitle: "NHL Stanley Cup",
+    manualURL: "https://archive.org/details/nhl-stanley-cup-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/18919/nhl-stanley-cup/",
+    rank: "U",
+  }, //35
+  {
+    gameTitle: "Steel Talons",
+    manualURL: "https://archive.org/details/steel-talons-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/23332/steel-talons/",
+    rank: "C",
+  },
+  {
+    gameTitle: "Super Battleship",
+    manualURL: "https://archive.org/details/super-battleship-usa/mode/2up",
+    mobyURL:
+      "https://www.mobygames.com/game/40960/super-battleship-the-classic-naval-combat-game/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Super Putty",
+    manualURL: "https://archive.org/details/super-putty-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/7697/putty/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Terminator 2: Judgement Day",
+    manualURL:
+      "https://archive.org/details/terminator-2-judgment-day-eu/mode/2up",
+    mobyURL:
+      "https://www.mobygames.com/game/48822/t2-terminator-2-judgment-day/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Tecmo Super Bowl",
+    manualURL: "https://archive.org/details/tecmo-super-bowl-usa",
+    mobyURL: "https://www.mobygames.com/game/16868/tecmo-super-bowl/",
+    rank: "C",
+  }, //40
+  {
+    gameTitle: "Time Slip",
+    manualURL: "https://archive.org/details/time-slip-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/40103/time-slip/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Tony Meola's Sidekicks Soccer",
+    manualURL: "https://archive.org/details/tony-meolas-sidekicks-soccer-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/40681/tony-meolas-sidekicks-soccer/",
+    rank: "U",
+  },
+  {
+    gameTitle: "We're Back: A Dinosaur's Story",
+    manualURL: "https://archive.org/details/were-back-a-dinosaurs-story-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/38686/were-back-a-dinosaurs-story/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Mario's Time Machine",
+    manualURL:
+      "https://archive.org/details/marios-time-machine-usa_202008/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/12156/marios-time-machine/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Metal Combat: Falcon's Revenge",
+    manualURL: "https://archive.org/details/metal-combat-falcons-revenge-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/25705/metal-combat-falcons-revenge/",
+    rank: "A",
+  }, //45
+  {
+    gameTitle: "Beethoven: The Ultimate Canine Caper",
+    manualURL:
+      "https://archive.org/details/beethoven-the-ultimate-canine-caper-usa",
+    mobyURL: "https://www.mobygames.com/game/32371/beethovens-2nd/",
+    rank: "D",
+  },
+  {
+    gameTitle: "World Soccer 94",
+    manualURL: "https://archive.org/details/striker-pal/page/1/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/12380/striker/",
+    rank: "U",
+  },
+  {
+    gameTitle: "ABC Monday Night Football",
+    manualURL: "https://archive.org/details/abc-monday-night-football-usa",
+    mobyURL: "https://www.mobygames.com/game/66349/abc-monday-night-football/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Barbie Super Model",
+    manualURL: "https://archive.org/details/barbie-super-model-usa",
+    mobyURL: "https://www.mobygames.com/game/20584/barbie-super-model/",
+    rank: "C",
+  },
+  {
+    gameTitle: "Dig and Spike Volleyball",
+    manualURL: "https://archive.org/details/dig-spike-volleyball-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/39885/dig-spike-volleyball/",
+    rank: "D",
+  }, //50
+  {
+    gameTitle: "Dennis the Menace",
+    manualURL: "https://archive.org/details/dennis-the-menace-usa",
+    mobyURL: "https://www.mobygames.com/game/13239/dennis-the-menace/",
+    rank: "F",
+  },
+  {
+    gameTitle: "F1 Pole Position",
+    manualURL: "https://archive.org/details/f-1-pole-position-usa",
+    mobyURL: "https://www.mobygames.com/game/44675/f1-pole-position/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Genghis Khan 2: Clan of the Grey Wolf",
+    manualURL:
+      "https://archive.org/details/genghis-khan-2-clan-of-the-grey-wolf-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/1927/genghis-khan-ii-clan-of-the-gray-wolf/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Nobunaga's Ambition",
+    manualURL:
+      "https://archive.org/details/nobunagas-ambition-usa/page/n1/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/5825/nobunagas-ambition/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Romance of the Three Kingdoms III",
+    manualURL:
+      "https://archive.org/details/romance-of-the-three-kingdoms-iii-dragon-of-destiny-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/1928/romance-of-the-three-kingdoms-iii-dragon-of-destiny/",
+    rank: "U",
+  }, //55
+  {
+    gameTitle: "Side Pocket",
+    manualURL: "https://archive.org/details/side-pocket-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/17479/side-pocket/credits/nes/?autoplatform=true",
+    rank: "C",
+  },
+  {
+    gameTitle: "Populous",
+    manualURL: "https://archive.org/details/populous-usa",
+    mobyURL: "https://www.mobygames.com/game/613/populous/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Super Bases Loaded",
+    manualURL: "https://archive.org/details/super-bases-loaded-usa",
+    mobyURL: "https://www.mobygames.com/game/50309/super-bases-loaded/",
+    rank: "U",
+  },
+  {
+    gameTitle: "The Chessmaster",
+    manualURL: "https://archive.org/details/chessmaster-the-usa",
+    mobyURL: "https://www.mobygames.com/game/32636/the-chessmaster/",
+    rank: "F",
+  },
+  {
+    gameTitle: "HyperZone",
+    manualURL: "https://archive.org/details/hyperzone-usa",
+    mobyURL: "https://www.mobygames.com/game/25327/hyperzone/",
+    rank: "D",
+  }, //60
+  {
+    gameTitle: "Hal's Hole-in-One",
+    manualURL: "https://archive.org/details/hals-hole-in-one-golf-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/18648/hole-in-one/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Final Fight",
+    manualURL: "https://archive.org/details/final-fight-usa",
+    mobyURL: "https://www.mobygames.com/game/9836/final-fight/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Ultraman: Towards the Future",
+    manualURL: "https://archive.org/details/ultraman-towards-the-future-usa",
+    mobyURL: "https://www.mobygames.com/game/44344/ultraman/",
+    rank: "F",
   },
 ];
 

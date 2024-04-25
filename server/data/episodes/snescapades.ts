@@ -14,7 +14,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Jurassic-Park-Edition-e2agnb5",
     youtubeURL: "https://youtu.be/Vw1gSmGUbf8?si=AdAMdUM9RWqpiLqh",
-    image: "001_Cover.jpg",
+    image: "001_JurassicPark.jpg",
     blog: "001_jurassic_park.md",
     games: [0, 1, 2],
     altText: snescapadesAlt(
@@ -22,6 +22,11 @@ const snescapadesEps = [
       "Dr. Grant from Jurassic Park",
       '"Jurassic Park", "Pink Goes to Hollywood" and "The Lawnmower Man"'
     ),
+    topics: [
+      "It's season 2 now!",
+      "Unintentionally uncomfortable stage names",
+      "Ocean Software Ltd.",
+    ],
     isPublished: true,
   },
   {
@@ -32,7 +37,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Aladdin-Edition-e2agpqj",
     youtubeURL: "https://youtu.be/FA5PMD0G6eA?si=IPkEx2lG3VCdbtKx",
-    image: "002_Cover.jpg",
+    image: "002_Aladdin.jpg",
     blog: "002_aladdin.md",
     games: [3, 4, 5],
     altText: snescapadesAlt(
@@ -40,6 +45,7 @@ const snescapadesEps = [
       "Aladdin from Disney's Aladdin",
       '"Aladdin", "Robocop vs. Terminator" and "Total Carnage"'
     ),
+    topics: ["Shinji Mikami"],
     isPublished: true,
   },
   {
@@ -50,10 +56,11 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Clock-Tower-Edition-e2b9j0g",
     youtubeURL: "https://youtu.be/OEXWU-aYYN8?si=_AR07Oez5_kTkdEW",
-    image: "003_Cover.jpg",
+    image: "003_ClockTower.jpg",
     blog: "003_clock_tower.md",
     games: [9],
     altText: snescapadesAlt("3rd", "Jennifer from Clock Tower", "Clock Tower"),
+    topics: ["Spooky games on the SNES...", "...and the lack thereof"],
     isPublished: true,
   },
   {
@@ -64,7 +71,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Clay-Fighter-Edition-e2e0j3q",
     youtubeURL: "https://youtu.be/wNXP6QcbzKM?si=_TkcHxybePq0n9vR",
-    image: "004_Cover.jpg",
+    image: "004_ClayFighter.jpg",
     blog: "004_clay_fighter.md",
     games: [6, 7, 8],
     altText: snescapadesAlt(
@@ -72,6 +79,7 @@ const snescapadesEps = [
       "Bad Mr. Frosty from Clay Fighter",
       '"Clay Fighter", "Out to Lunch", "Ranma 1/2 Hard Battle"'
     ),
+    topics: ["Why was Elvis a thing in the 90s?"],
     isPublished: true,
   },
   {
@@ -82,9 +90,11 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/The-Wrap-November-93-e2eap44",
     youtubeURL: "https://youtu.be/fezm_an3OQU?si=Y-0QgIlN2iZdAaXE",
-    image: "005_Cover.jpg",
+    image: "005_Wrap_Nov-93.jpg",
     blog: "005_wrap_nov_93.md",
+    games: [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
     altText: theWrapAlt("5th", "November 1993"),
+    topics: [],
     isPublished: true,
   },
   {
@@ -95,9 +105,19 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/TPlaying-with-Power-August-1991-e2em5cd",
     youtubeURL: "https://youtu.be/Ue1u3YG2L3g?si=tmu59oJeMIvYQAdw",
-    image: "006_Cover.jpg",
+    image: "006_PWP_Aug-91.jpg",
     blog: "006_pwp_aug_91.md",
+    games: [],
     altText: playingWithPowerAlt("6th", "August 1991"),
+    topics: [
+      "Nintendo Power Volume 27",
+      "Megaman on Game Boy",
+      "Cool Ninja Gaiden art",
+      "Perhaps the best Nester comic ever?",
+      "The curious case of Bill & Ted's phone booth.",
+      "No SNES in Canada (yet)",
+      "Bio Force Ape",
+    ],
     isPublished: true,
   },
   {
@@ -108,7 +128,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Super-Mario-World-Edition-e2ev63m",
     youtubeURL: "https://youtu.be/lNXWPwhixUI",
-    image: "007_Cover.jpg",
+    image: "007_SuperMarioWorld.jpg",
     blog: "007_super_mario_world.md",
     games: [10, 11],
     altText: snescapadesAlt(
@@ -116,6 +136,7 @@ const snescapadesEps = [
       "Mario from Super Mario World",
       '"Super Mario World" and "F-Zero"'
     ),
+    topics: ["The Yamauchi Family"],
     isPublished: true,
   },
   {
@@ -126,7 +147,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/SimCity-Edition-e2f8q9p",
     youtubeURL: "https://youtu.be/HkZefzU1s0I",
-    image: "008_Cover.jpg",
+    image: "008_SimCity.jpg",
     blog: "008_simcity.md",
     games: [12, 13, 14],
     altText: snescapadesAlt(
@@ -134,6 +155,7 @@ const snescapadesEps = [
       "Dr. Wright from SimCity",
       '"SimCity", "Gradius III", and "Pilotwings"'
     ),
+    topics: ["Maxis and Early God/City Sims"],
     isPublished: true,
   },
   {
@@ -144,9 +166,19 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-December-93-e2fhsl2",
     youtubeURL: "https://youtu.be/IlzLSSCJE3U",
-    image: "009_Cover.jpg",
+    image: "009_PWP_Dec-93.jpg",
     blog: "009_pwp_dec_93.md",
+    games: [],
     altText: playingWithPowerAlt("9th", "December 1993"),
+    topics: [
+      "Nintendo Power Volume 55",
+      "Super Power Stamps",
+      "Cool Megaman X poster",
+      "Star Fox finishing the fight",
+      "American-made Megaman bosses",
+      "Raya Systems",
+      "Tetris 2",
+    ],
     isPublished: true,
   },
   {
@@ -157,7 +189,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Battle-Cars-Edition-e2g0ruj",
     youtubeURL: "https://youtu.be/hVj05CX_LQ8",
-    image: "010_Cover.jpg",
+    image: "010_BattleCars.jpg",
     blog: "010_battle_cars.md",
     games: [15, 16, 17],
     altText: snescapadesAlt(
@@ -165,6 +197,7 @@ const snescapadesEps = [
       "a spikey car from Battle Cars",
       '"Battle Cars", "Super Chase H.Q.", "Super Nova"'
     ),
+    topics: ["Micheal Kogan, founder of Titus"],
     isPublished: true,
   },
   {
@@ -175,7 +208,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Inspector-Gadget-Edition-e2g6s23",
     youtubeURL: "https://youtu.be/FdUfuxUBK-E",
-    image: "011_Cover.jpg",
+    image: "011_InspectorGadget.jpg",
     blog: "011_inspector_gadget.md",
     games: [18, 19, 20],
     altText: snescapadesAlt(
@@ -183,6 +216,7 @@ const snescapadesEps = [
       "Inspector Gadget from Inspector Gadget",
       '"Inspector Gadget", "The Adventures of Dr. Franken", and "Jim Power"'
     ),
+    topics: [],
     isPublished: true,
   },
   {
@@ -193,7 +227,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/TMNT-Tournament-Fighters-Edition-e2gg5rt",
     youtubeURL: "https://youtu.be/cUxfjpk_bhM",
-    image: "012_Cover.jpg",
+    image: "012_TMNTTournamentFighters.jpg",
     blog: "012_tmnt_tournament_fighters.md",
     games: [21, 22, 23],
     altText: snescapadesAlt(
@@ -201,6 +235,7 @@ const snescapadesEps = [
       "Aksa from TMNT: Tournament Fighters",
       '"TMNT: Tournament Fighters", "Art of Fighting", and "Battle Blaze"'
     ),
+    topics: ["Eikichi Kawasaki and SNK"],
     isPublished: true,
   },
   {
@@ -211,7 +246,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Lufia--the-Fortress-of-Doom-Edition-e2gr8u9",
     youtubeURL: "https://youtu.be/J--FjnlkqJI",
-    image: "013_Cover.jpg",
+    image: "013_Lufia.jpg",
     blog: "013_lufia.md",
     games: [24, 25, 26],
     altText: snescapadesAlt(
@@ -219,6 +254,7 @@ const snescapadesEps = [
       "the main four party members from Lufia",
       '"Lufia and the Fortress of Doom", "Soldiers of Fortune", and "Metal Marines"'
     ),
+    topics: [],
     isPublished: true,
   },
   {
@@ -229,9 +265,11 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/The-Wrap-December-93-e2h4144",
     youtubeURL: "https://youtu.be/9OnfPLGSUsY",
-    image: "014_Cover.jpg",
+    image: "014_Wrap_Dec-93.jpg",
     blog: "014_wrap_dec_93.md",
+    games: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56],
     altText: theWrapAlt("14th", "December 1993"),
+    topics: [],
     isPublished: true,
   },
   {
@@ -242,9 +280,16 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-September-1991-Part-1-e2hesji",
     youtubeURL: "https://youtu.be/pWp5DQiwRgo",
-    image: "015_Cover.jpg",
+    image: "015_PWP_Sept-91.jpg",
     blog: "015_pwp_sept_91_1.md",
+    games: [],
     altText: playingWithPowerAlt("15th", "September 1991"),
+    topics: [
+      "Nintendo Power Volume 28",
+      "Super Mario World",
+      "Unmasking a power animal",
+      "Star Wars",
+    ],
     isPublished: true,
   },
   {
@@ -255,9 +300,18 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-September-1991-Part-2-e2hn991",
     youtubeURL: "https://youtu.be/djpD_crcy_c",
-    image: "016_Cover.jpg",
+    image: "016_PWP_Sept-91.jpg",
     blog: "016_pwp_sept_91_2.md",
+    games: [],
     altText: playingWithPowerAlt("15th", "September 1991"),
+    topics: [
+      "Nintendo Power Volume 28",
+      "American Gladiators",
+      "Becomeing a master of kicking",
+      "Badly drawn Final Fight characters",
+      "Game Boy stuff",
+      "A chat with Bart Simpson",
+    ],
     isPublished: true,
   },
   {
@@ -268,7 +322,7 @@ const snescapadesEps = [
     embedURL:
       "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/UN-Squadron-Edition-e2i1ajb",
     youtubeURL: "https://youtu.be/3ycw8ITRaro",
-    image: "017_Cover.jpg",
+    image: "017_UNSquadron.jpg",
     blog: "017_un_squadron.md",
     games: [27, 28, 29],
     altText: snescapadesAlt(
@@ -276,6 +330,69 @@ const snescapadesEps = [
       "the three selectable characters from UN Squadron",
       '"UN Squadron", "Super R-Type", and "Drakkhen"'
     ),
+    topics: [],
+    isPublished: true,
+  },
+  {
+    episodeTitle: "The Wrap: September 1991",
+    episodeNumber: 18,
+    length: "51:00",
+    published: new Date(2024, monthEnum.apr, 11),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/The-Wrap-September-1991-e2i9mq4",
+    youtubeURL: "https://youtu.be/pz_y82TkunY",
+    image: "018_Wrap_Sept-91.jpg",
+    blog: "018_wrap_sept_91_1.md",
+    games: [57, 58, 59, 60, 61, 62, 63],
+    altText: theWrapAlt("18th", "September 1991"),
+    topics: [],
+    isPublished: true,
+  },
+  {
+    episodeTitle: "Playing with Power: January 1994 (Part 1)",
+    episodeNumber: 19,
+    length: "1:08:54",
+    published: new Date(2024, monthEnum.apr, 18),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-January-1994-Part-1-e2ikhi8",
+    youtubeURL: "https://youtu.be/LSIRV2BN0Ps",
+    image: "019_PWP_Jan-94.jpg",
+    blog: "019_pwp_jan_94_1.md",
+    games: [],
+    altText: playingWithPowerAlt("19th", "January 1994"),
+    topics: [
+      "Nintendo Power Volume 56",
+      "Megaman X",
+      "Cool drawings",
+      "Flashback",
+      "Claymates",
+      "Soldiers of Fortune",
+      "Ninja Turtles",
+      "An adorable Mario vs. Wario comic",
+      "Games that didn't make it stateside",
+    ],
+    isPublished: true,
+  },
+  {
+    episodeTitle: "Playing with Power: January 1994 (Part 2)",
+    episodeNumber: 20,
+    length: "53:27",
+    published: new Date(2024, monthEnum.apr, 25),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-January-1994-Part-2-e2irogn",
+    youtubeURL: "https://youtu.be/Hb19gXbVsBo",
+    image: "020_PWP_Jan-94.jpg",
+    blog: "020_pwp_jan_94_2.md",
+    games: [],
+    altText: playingWithPowerAlt("19th", "January 1994"),
+    topics: [
+      "Nintendo Power Volume 56",
+      "Remember those Magic Eye books?",
+      "Stuff about SNES music",
+      "Batman",
+      "More Ninja Turtles",
+      "Pogs!",
+    ],
     isPublished: true,
   },
 ];
