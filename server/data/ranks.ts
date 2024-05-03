@@ -39,6 +39,8 @@ const allRanks = {
     "Clock Tower",
     "TMNT: Tournament Fighters",
     "Art of Fighting",
+    "Metal Combat: Falcon's Revenge",
+    "Mega Man X",
   ],
   B: [
     "BlaZeon The Bio-Cyborg Challenge",
@@ -290,7 +292,6 @@ const allRanks = {
     "Nobunaga's Ambition",
     "Romance of the Three Kingdoms III",
     "Genghis Khan II: Clan of the Grey Wolf",
-    "Metal Combat: Falcon's Revenge",
     "Hal’s Hole in One",
     "Super Bases's Loaded",
   ],

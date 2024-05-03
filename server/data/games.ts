@@ -409,6 +409,18 @@ const allGames = [
     mobyURL: "https://www.mobygames.com/game/44344/ultraman/",
     rank: "F",
   },
+  {
+    gameTitle: "Knights of the Round",
+    manualURL: "https://archive.org/details/knights-of-the-round-usa",
+    mobyURL: "https://www.mobygames.com/game/13449/knights-of-the-round/",
+    rank: "",
+  },
+  {
+    gameTitle: "Mega Man X",
+    manualURL: "https://archive.org/details/mega-man-x-usa-rev-1",
+    mobyURL: "https://www.mobygames.com/game/1334/mega-man-x/",
+    rank: "A",
+  }, // 65
 ];
 
 export default allGames;
