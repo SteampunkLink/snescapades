@@ -395,6 +395,27 @@ const snescapadesEps = [
     ],
     isPublished: true,
   },
+  {
+    episodeTitle: "SNEScapades Special: Megaman X with Trevor",
+    episodeNumber: 21,
+    length: "1:58:10",
+    published: new Date(2024, monthEnum.may, 1),
+    embedURL:
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/SNEScapades-Special-Megaman-X-with-Trevor-e2j2v4u",
+    youtubeURL: "https://youtu.be/StbpVkmLF5E",
+    image: "021_Special_Trevor_MMX.jpg",
+    blog: "021_special_trevor_mmx.md",
+    games: [64, 45, 65],
+    altText: `${snescapadesAlt(
+      "21st",
+      "Mega Man X",
+      "Metal Combat: Falcon's Revenge, Knights of the Round, and Mega Man X"
+    )} This card also has the word "Special" writen in a starry font and at the bottom it reads "With Special Guest Trevor from Catching up on Cinema" along with the Catching Up on Cinema podcast logo.`,
+    topics: [
+      "With Special Guest Trevor, from the Catching Up on Cinema podcast!",
+    ],
+    isPublished: true,
+  },
 ];
 
 export default snescapadesEps;
