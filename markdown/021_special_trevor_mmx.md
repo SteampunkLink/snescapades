@@ -1,5 +1,3 @@
-## Synopsis
-
 Hey everyone! This is a big episode for a lot of reasons. First of all, we’re finally in 1994 (the biggest year for the SNES in terms of quantity of games released). Second, we’re talking about one of our favorite games ever made. Third, this is our first “SNEScapades Special” of season two. Finally, and most importantly, we’re talking with our good friend Trevor from Catching up on Cinema. Oh, it’s also almost two hours long.
 
 For this new version of SNEScapades Special, we’re letting our guest craft an episode by selecting any 3 Super NES games to talk about. So before we get to Megaman X, Trevor gives us a bit of a lesson on one of the Super Scope games (which we haven’t really been able to engage with) and helps us find a place on our list for Metal Combat: Falcon’s Revenge.

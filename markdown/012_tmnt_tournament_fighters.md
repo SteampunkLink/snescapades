@@ -1,5 +1,3 @@
-## Synopsis
-
 Put on your gi, sharpen those sai, and do whatever the heck you were supposed to do in Battle Blaze because it's time to get into the ring! We've got three fighting games to talk about today. And this just might be the batch of games that redeem this less-than-stellar month in SNES games.
 
 We're talking about Teenage Mutant Ninja Turtles: Tournament Fighters. It's a fighting game starring the ninja turtles which seems like a combination as obvious as pepperoni and cheese. We'll tell you why we liked it and how it stacks up to the other fighting games on the list.

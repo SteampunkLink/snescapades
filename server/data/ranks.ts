@@ -41,6 +41,7 @@ const allRanks = {
     "Art of Fighting",
     "Metal Combat: Falcon's Revenge",
     "Mega Man X",
+    "Skyblazer",
   ],
   B: [
     "BlaZeon The Bio-Cyborg Challenge",
@@ -139,6 +140,7 @@ const allRanks = {
     "Soldiers of Fortune",
     "Side Pocket",
     "Barbie Super Model",
+    "Lester the Unlikely",
   ],
   D: [
     "Bubsy: Claws Encounter of the Furred Kind",
@@ -211,6 +213,8 @@ const allRanks = {
     "Final Fight",
     "Hyperzone",
     "Populous",
+    "Zool: Ninja of the Nth Dimension",
+    "Choplifter III",
   ],
   F: [
     "Race Drivin’",
@@ -271,6 +275,9 @@ const allRanks = {
     "Dennis the Menace",
     "Mario's Time Machine",
     "The Chessmaster",
+    "Super Battletank 2",
+    "Super Solitaire",
+    "Lethal Enforcers",
   ],
   U: [
     "Miracle Piano Teacher",
@@ -294,6 +301,8 @@ const allRanks = {
     "Genghis Khan II: Clan of the Grey Wolf",
     "Hal’s Hole in One",
     "Super Bases's Loaded",
+    "Riddick Bowe Boxing",
+    "Brett Hull Hockey",
   ],
 };
 

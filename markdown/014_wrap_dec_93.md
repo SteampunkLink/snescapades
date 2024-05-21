@@ -1,5 +1,3 @@
-## Synopsis
-
 We've reached the end of another month. And that means it's time to wrap things up with another edition of The Wrap. But before we get to that, we just want to let you all know that we'd love to have folks come on our show to discuss thier favorite SNES games. If you're a fellow content creator, feel free to reach out on Instagram, Youtube, or even Bluesky. You get to pick three SNES games to form the episode around and chat with us around them. If you're nice, we might even let you help us rank them!
 
 Alright, with all of that out of the way. It's time to talk about what we're doing on December 1993's edition of The Wrap. We've got sports games, Koei strategy games, and a Super Scope game. But there's also games that we're going to talk about.

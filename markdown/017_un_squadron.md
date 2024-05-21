@@ -1,5 +1,3 @@
-## Synopsis
-
 Hey everyone. Welcome to another episode of SNEScapades. We’re talking shooters today. Oh, and I guess Drakkhen’s here too.
 
 The early days of the SNES had plenty of shm’ups to play. Chase and Emmy were a little less kind to Gradius III than they were the first time they encountered it due to all of its slowdown. Today they’re talking about Super R-Type, which is a similar kind of shooter with classic arcade roots. Will it drop in the ranks like its contemporary or will it stay its original charted course? Hell, will they actually like it more? Who’s to say? Well, they are, but you have to listen to the episode to find out.

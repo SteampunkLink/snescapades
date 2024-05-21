@@ -1,5 +1,3 @@
-## Synopsis
-
 It's a little bit of a mixed bag today as we reach the final proper episode for the games released on the SNES in 1993.
 
 We start with the top-down, Gauntlet-like shooter Soldiers of Fortune (aka Chaos Engine). Not much to say about that one here. There's mutants in it. That's neat.

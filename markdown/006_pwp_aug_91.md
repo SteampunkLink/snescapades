@@ -1,5 +1,3 @@
-## Synopsis
-
 Hey everyone. We're going back to the start of this whole crazy thing and talking about the issue of Nintendo Power that came out the same month the SNES hit the market. And it may surprise you to learn that there actually wasn't a lot about the SNES in that issue, but a whole lot about the Game Boy.
 
 We're talking about great Ninja Gaiden art, a better Nester's Adventures format, unwieldy (and likely unwanted) contest prizes, Mega Man on Game Boy, and lots more.

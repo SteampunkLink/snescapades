@@ -1,5 +1,3 @@
-## Synopsis
-
 Here we go again! It's time to discuss another issue of Nintendo Power. If you want to follow along, you can do that by checking out the [Internet Archive's copy of the issue here!](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20028%20%28September%201991%29/)
 
 And we have a LOT to talk about in this issue. This is the issue that properly introduced its readers to Super Mario World. That alone makes this a very special issue for Chase, but it's even more special because for him because his had a fun marketing gimmick on the cover. To get readers to renew their subscriptions, NP would occasionally wrap the magazine in an additional cover. Here's what it looked like when Chase got it back in 1991.

@@ -1,5 +1,3 @@
-## Synopsis
-
 We're finishing up August 1991 again, and we're really excited because we get to talk about SimCity again, and we're pretty big fans of SimCity.
 
 But first we need to discuss Gradius III and Pilotwings, and we end up making our first shifts in the list. But what where will they end up? Do you think their re-evaluations are fair?

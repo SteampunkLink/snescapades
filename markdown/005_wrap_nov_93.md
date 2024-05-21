@@ -1,5 +1,3 @@
-## Synopsis
-
 Welcome, one and all, to the very first edition of The Wrap. This is an episode of SNEScapades where we look at all of the leftover games from a particular month that we didn’t feel was worth one-third of an entire featured episode.
 
 Why did we decide to start doing this? Well the first two games on the docket have a lot to do with that. Actraiser 2 is the game that nearly broke Chase and Biometal was so dull that Emmy questioned whether she could continue talking more than a few minutes about every single game on the system. So congratulations Actraiser 2 and Biometal for being so awful and bland respectively that we changed the entire format of our show.

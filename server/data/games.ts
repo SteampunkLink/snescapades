@@ -421,6 +421,132 @@ const allGames = [
     mobyURL: "https://www.mobygames.com/game/1334/mega-man-x/",
     rank: "A",
   }, // 65
+  {
+    gameTitle: "Zool: Ninja of the Nth Dimension",
+    manualURL:
+      "https://archive.org/details/zool-ninja-of-the-nth-dimension-usa",
+    mobyUrl: "https://www.mobygames.com/game/5776/zool/",
+    rank: "D",
+  },
+  {
+    gameTitle: "Lester the Unlikely",
+    manualURL: "https://archive.org/details/lester-the-unlikeley-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/11666/lester-the-unlikely/",
+    rank: "C",
+  },
+  {
+    gameTitle: "Skyblazer",
+    manualURL: "https://archive.org/details/sky-blazer-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/10512/skyblazer/",
+    rank: "A",
+  },
+  {
+    gameTitle: "Riddick Bowe Boxing",
+    manualURL: "https://archive.org/details/riddick-bowe-boxing-usa",
+    mobyURL: "https://www.mobygames.com/game/32596/riddick-bowe-boxing/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Brett Hull Hockey",
+    manualURL: "https://archive.org/details/brett-hull-hockey-usa",
+    mobyURL: "https://www.mobygames.com/game/39886/brett-hull-hockey/",
+    rank: "U",
+  }, // 70
+  {
+    gameTitle: "Choplifter III",
+    manualURL: "https://archive.org/details/choplifter-iii-usa/mode/2up",
+    mobyURL:
+      "https://www.mobygames.com/game/17678/choplifter-iii-rescue-survive/",
+    rank: "C",
+  },
+  {
+    gameTitle: "Super Battletank 2",
+    manualURL: "https://archive.org/details/super-battletank-2-usa",
+    mobyURL: "https://www.mobygames.com/game/40117/super-battletank-2/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Super Solitaire",
+    manualURL: "https://archive.org/details/super-solitaire-usa",
+    mobyURL: "https://www.mobygames.com/game/32615/super-solitaire/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Lethal Enforcers",
+    manualURL: "https://archive.org/details/lethal-enforcers-usa",
+    mobyURL: "https://www.mobygames.com/game/15901/lethal-enforcers/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Final Fantasy II",
+    manualURL: "https://archive.org/details/final-fantasy-ii-usa-rev-1",
+    mobyURL: "https://www.mobygames.com/game/4572/final-fantasy-ii/",
+    rank: "A",
+  }, // 75
+  {
+    gameTitle: "Darius Twin",
+    manualURL: "https://archive.org/details/darius-twin-usa",
+    mobyURL: "https://www.mobygames.com/game/17484/darius-twin/",
+    rank: "",
+  },
+  {
+    gameTitle: "ActRaiser",
+    manualURL: "https://archive.org/details/act-raiser-usa/mode/2up",
+    mobyURL: "https://www.mobygames.com/game/6704/actraiser/",
+    rank: "A",
+  },
+  {
+    gameTitle: "Super Ghouls N' Ghosts",
+    manualURL: "https://archive.org/details/super-ghoulsn-ghosts-usa",
+    mobyURL: "https://www.mobygames.com/game/6730/super-ghouls-n-ghosts/",
+    rank: "",
+  },
+  {
+    gameTitle: "Bill Laimbeer's Combat Basketball",
+    manualURL:
+      "https://archive.org/details/bill-lambeers-combat-basketball-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/15686/bill-laimbeers-combat-basketball/",
+    rank: "",
+  },
+  {
+    gameTitle: "John Madden Football",
+    manualURL: "https://archive.org/details/john-madden-football-usa",
+    mobyURL: "https://www.mobygames.com/game/14459/john-madden-football-92/",
+    rank: "",
+  }, // 80
+  {
+    gameTitle: "Paperboy 2",
+    manualURL: "https://archive.org/details/paperboy-2-usa",
+    mobyURL: "https://www.mobygames.com/game/4020/paperboy-2/",
+    rank: "",
+  },
+  {
+    gameTitle: "RPM Racing",
+    manualURL: "https://archive.org/details/r.-p.-m.-racing-usa",
+    mobyURL: "https://www.mobygames.com/game/36226/rpm-racing/",
+    rank: "",
+  },
+  {
+    gameTitle: "Super Tennis",
+    manualURL: "https://archive.org/details/super-tennis-usa",
+    mobyURL: "https://www.mobygames.com/game/6596/super-tennis/",
+    rank: "",
+  },
+  {
+    gameTitle: "True Golf Classics: Waialae",
+    manualURL:
+      "https://archive.org/details/true-golf-classics-waialae-country-club-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/26665/true-golf-classics-waialae-country-club/",
+    rank: "",
+  },
+  // {
+  //   gameTitle: ,
+  //   manualURL: ,
+  //   mobyURL: ,
+  //   rank: ,
+  // }, // 85
 ];
 
 export default allGames;

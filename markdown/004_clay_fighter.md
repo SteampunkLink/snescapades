@@ -1,5 +1,3 @@
-## Synopsis
-
 Happy new year, everyone. Sorry our release schedule was so spotty last year. We're hoping to make up for it by starting to go weekly again. Expect these episodes to be recorded FAR in advance, so apologies if we make references that are far out of date. Case in point, this was recorded in October of last year. We know we're making these for at least a month out now so they should get less dated moving forward.
 
 So, we're talking about Out to Lunch, Ranma 1/2: Hard Battle, and Clay Fighter in today's episode. Out to Lunch just barely escapes being relegated to the wrap-up for being an odd curio that neither Chase nor Emmy had really ever heard of before digging into the library for this show. But does that mean it's any good? We'll tell ya.

@@ -1,5 +1,3 @@
-## Synopsis
-
 Here we are, back where we started. We're talking about two of the most prominent launch titles for the Super NES.
 
 First up is F-Zero, which was an amazing showcase of what the SNES's Mode 7 graphics were capable of. We placed it in the A tier when we first talked about it a few year back. Will we be a charitable to this impressive game, or will its lack of features cause it to slip a little in the rankings?

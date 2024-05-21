@@ -1,5 +1,3 @@
-## Synopsis
-
 Buckle up, because we've got a need to go really fast in various vehicles. Spiky car? Sounds like fun. Space ship that shoots lasers? Sign me up. Cool cop car? Eh... maybe not that one.
 
 We're starting the show talking about Battle Cars which is another Mode 7 racing game where you drive around and try to use weapons to knock the other cars off the road. It's also very Mad Max inspired. Find out if we think this game is off to the races, or if it's just a pile of scrap.
