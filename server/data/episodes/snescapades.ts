@@ -456,8 +456,8 @@ const snescapadesEps = [
     length: "1:01:45",
     published: new Date(2024, monthEnum.may, 23),
     embedURL:
-      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/",
-    youtubeURL: "",
+      "https://podcasters.spotify.com/pod/show/honest-piranha/embed/episodes/Playing-with-Power-October-1991-e2k1s47",
+    youtubeURL: "https://youtu.be/4L8Wzxxud9w",
     image: "024_PWP_Oct_91.jpg",
     blog: "024_pwp_oct_91.md",
     games: [],
@@ -470,7 +470,7 @@ const snescapadesEps = [
       "Shatterhand",
       "That guy from Murphy Brown!",
     ],
-    isPublished: false,
+    isPublished: true,
   },
   {
     episodeTitle: "Playing with Power: November 1991",
