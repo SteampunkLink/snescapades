@@ -487,7 +487,7 @@ const allGames = [
     gameTitle: "Darius Twin",
     manualURL: "https://archive.org/details/darius-twin-usa",
     mobyURL: "https://www.mobygames.com/game/17484/darius-twin/",
-    rank: "",
+    rank: "B",
   },
   {
     gameTitle: "ActRaiser",
