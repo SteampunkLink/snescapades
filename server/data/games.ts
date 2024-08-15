@@ -499,7 +499,7 @@ const allGames = [
     gameTitle: "Super Ghouls N' Ghosts",
     manualURL: "https://archive.org/details/super-ghoulsn-ghosts-usa",
     mobyURL: "https://www.mobygames.com/game/6730/super-ghouls-n-ghosts/",
-    rank: "",
+    rank: "F",
   },
   {
     gameTitle: "Bill Laimbeer's Combat Basketball",
@@ -507,31 +507,31 @@ const allGames = [
       "https://archive.org/details/bill-lambeers-combat-basketball-usa",
     mobyURL:
       "https://www.mobygames.com/game/15686/bill-laimbeers-combat-basketball/",
-    rank: "",
+    rank: "F",
   },
   {
     gameTitle: "John Madden Football",
     manualURL: "https://archive.org/details/john-madden-football-usa",
     mobyURL: "https://www.mobygames.com/game/14459/john-madden-football-92/",
-    rank: "",
+    rank: "U",
   }, // 80
   {
     gameTitle: "Paperboy 2",
     manualURL: "https://archive.org/details/paperboy-2-usa",
     mobyURL: "https://www.mobygames.com/game/4020/paperboy-2/",
-    rank: "",
+    rank: "D",
   },
   {
     gameTitle: "RPM Racing",
     manualURL: "https://archive.org/details/r.-p.-m.-racing-usa",
     mobyURL: "https://www.mobygames.com/game/36226/rpm-racing/",
-    rank: "",
+    rank: "F",
   },
   {
     gameTitle: "Super Tennis",
     manualURL: "https://archive.org/details/super-tennis-usa",
     mobyURL: "https://www.mobygames.com/game/6596/super-tennis/",
-    rank: "",
+    rank: "D",
   },
   {
     gameTitle: "True Golf Classics: Waialae",
@@ -539,7 +539,7 @@ const allGames = [
       "https://archive.org/details/true-golf-classics-waialae-country-club-usa",
     mobyURL:
       "https://www.mobygames.com/game/26665/true-golf-classics-waialae-country-club/",
-    rank: "",
+    rank: "C",
   },
   // {
   //   gameTitle: ,

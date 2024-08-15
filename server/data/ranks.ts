@@ -122,7 +122,6 @@ const allRanks = {
     "Smart Ball",
     "Extra Innings",
     "Uncharted Waters",
-    "Super Ghouls and Ghosts",
     "Wing Commander",
     "Wing Commander: The Secret Missions",
     "Daffy Duck: The Marvin Missions",
@@ -278,6 +277,7 @@ const allRanks = {
     "Super Battletank 2",
     "Super Solitaire",
     "Lethal Enforcers",
+    "Super Ghouls and Ghosts",
   ],
   U: [
     "Miracle Piano Teacher",
@@ -303,6 +303,7 @@ const allRanks = {
     "Super Bases's Loaded",
     "Riddick Bowe Boxing",
     "Brett Hull Hockey",
+    "John Madden Football",
   ],
 };
 
