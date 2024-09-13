@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaYoutube } from "react-icons/fa";
 import { TbBrandCohost } from "react-icons/tb";
 import { PiButterflyFill } from "react-icons/pi";
 import styles from "../styles/Sidebar.module.css";
@@ -30,18 +30,6 @@ const SocialMedia = () => {
               onMouseLeave={clearLabel}
             >
               <FaYoutube />
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.instagram.com/snescapades/"
-              target="_blank"
-              aria-label="Instagram"
-              title="Instagram"
-              onMouseOver={handleLabel}
-              onMouseLeave={clearLabel}
-            >
-              <FaInstagram />
             </a>
           </li>
           <li>
