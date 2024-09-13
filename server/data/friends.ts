@@ -43,6 +43,9 @@ const allFriends = [
   },
   {
     name: "Play Comics",
+    url: "https://playcomics.com/",
+    description:
+      "Play comics is a podcast where host Chris brings on guests to discuss video games based on comics. There's often a discussion about how well the game adapts the source material and if it could even be a good jumping-on point for newcomers.",
   },
   {
     name: "SNES is Life",
