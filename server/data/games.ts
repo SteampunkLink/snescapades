@@ -541,12 +541,110 @@ const allGames = [
       "https://www.mobygames.com/game/26665/true-golf-classics-waialae-country-club/",
     rank: "C",
   },
+  {
+    gameTitle: "Ardy Lightfoot",
+    manualURL: "https://archive.org/details/ardy-lightfoot-usa",
+    mobyURL: "https://www.mobygames.com/game/12152/ardy-lightfoot/",
+    rank: "B",
+  }, // 85
+  {
+    gameTitle: "Bugs Bunny's Rabbit Rampage",
+    manualURL: "https://archive.org/details/bugs-bunnys-rabbit-rampage-usa",
+    mobyURL: "https://www.mobygames.com/game/10034/bugs-bunny-rabbit-rampage/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Flashback: The Quest for Identity",
+    manualURL:
+      "https://archive.org/details/flashback-the-quest-for-identity-usa ",
+    mobyURL:
+      "https://www.mobygames.com/game/555/flashback-the-quest-for-identity/",
+    rank: "D",
+  },
+  {
+    gameTitle: "The Ninjawarriors",
+    manualURL: "https://archive.org/details/ninja-warriors-pal",
+    mobyURL: "https://www.mobygames.com/game/20412/the-ninja-warriors/",
+    rank: "B",
+  },
+  {
+    gameTitle: "Mickey's Ultimate Challenge",
+    manualURL: "https://archive.org/details/mickeys-ultimate-challenge-usa",
+    mobyURL: "https://www.mobygames.com/game/28290/mickeys-ultimate-challenge/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Super Alfred Chicken",
+    manualURL: "https://archive.org/details/super-alfred-chicken-usa",
+    mobyURL: "https://www.mobygames.com/game/96112/super-alfred-chicken/",
+    rank: "F", // 90
+  },
+  {
+    gameTitle: "Turn and Burn: No Fly Zone",
+    manualURL: "https://archive.org/details/turn-and-burn-no-fly-zone-usa",
+    mobyURL: "https://www.mobygames.com/game/38687/turn-and-burn-no-fly-zone/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Pro Sport Hockey",
+    manualURL:
+      "https://archive.org/details/pro-sport-hockey-instruction-booklet-published-by-jaleco-1993-ntsc ",
+    mobyURL: "https://www.mobygames.com/game/33915/pro-sport-hockey/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Super Bases Loaded 2",
+    manualURL: "https://archive.org/details/super-bases-loaded-2-usa",
+    mobyURL: "https://www.mobygames.com/game/39481/super-bases-loaded-2/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Bill Walsh College Football",
+    manualURL: "https://archive.org/details/bill-walsh-college-football-usa",
+    mobyURL:
+      "https://www.mobygames.com/game/36339/bill-walsh-college-football/",
+    rank: "U",
+  },
+  {
+    gameTitle: "Winter Olympic Games: Lillehammer '94",
+    manualURL:
+      "https://archive.org/details/winter-olympic-games-lillehammer-94-usa ",
+    mobyURL:
+      "https://www.mobygames.com/game/9596/winter-olympics-lillehammer-94/",
+    rank: "F", // 95
+  },
+  {
+    gameTitle: "Sports Illustrated Championship Football and Baseball",
+    manualURL:
+      "https://archive.org/details/sports-illustrated-championship-football-and-baseball-usa ",
+    mobyURL:
+      "https://www.mobygames.com/game/41907/sports-illustrated-championship-football-baseball/",
+    rank: "U",
+  },
+  {
+    gameTitle: "T2: The Arcade Game",
+    manualURL: "https://archive.org/details/t-2-the-arcade-game-usa",
+    mobyURL: "https://www.mobygames.com/game/1447/terminator-2-judgment-day/",
+    rank: "F",
+  },
+  {
+    gameTitle: "X-Kaliber: 2097",
+    manualURL: "https://archive.org/details/x-kaliber-2097-eu",
+    mobyURL: "https://www.mobygames.com/game/36452/x-kaliber-2097/",
+    rank: "F",
+  },
+  {
+    gameTitle: "Super Troll Islands",
+    manualURL: "https://archive.org/details/super-troll-islands-usa",
+    mobyURL: "https://www.mobygames.com/game/20713/super-troll-islands/",
+    rank: "F",
+  },
   // {
   //   gameTitle: ,
   //   manualURL: ,
   //   mobyURL: ,
   //   rank: ,
-  // }, // 85
+  // }, // 100
 ];
 
 export default allGames;

@@ -87,6 +87,8 @@ const allRanks = {
     "Inspector Gadget",
     "Lufia & the Fortress of Doom",
     "Super R-Type",
+    "Ardy Lightfoot",
+    "The Ninjawarriors",
   ],
   C: [
     "Ys III: Wanderers from Ys",
@@ -140,6 +142,7 @@ const allRanks = {
     "Side Pocket",
     "Barbie Super Model",
     "Lester the Unlikely",
+    "Choplifter III",
   ],
   D: [
     "Bubsy: Claws Encounter of the Furred Kind",
@@ -213,7 +216,7 @@ const allRanks = {
     "Hyperzone",
     "Populous",
     "Zool: Ninja of the Nth Dimension",
-    "Choplifter III",
+    "Flashback: The Quest for Identity",
   ],
   F: [
     "Race Drivin’",
@@ -278,6 +281,13 @@ const allRanks = {
     "Super Solitaire",
     "Lethal Enforcers",
     "Super Ghouls and Ghosts",
+    "Bugs Bunny's Rabbit Rampage",
+    "Mickey's Ultimate Challenge",
+    "Super Alfred Chicken",
+    "Winter Olympic Games: Lillehammer '94",
+    "T2: The Arcade Game",
+    "X-Kaliber: 2097",
+    "Super Troll Islands",
   ],
   U: [
     "Miracle Piano Teacher",
@@ -304,6 +314,11 @@ const allRanks = {
     "Riddick Bowe Boxing",
     "Brett Hull Hockey",
     "John Madden Football",
+    "Turn and Burn: No Fly Zone",
+    "Pro Sport Hockey",
+    "Super Bases Loaded 2",
+    "Bill Walsh College Football",
+    "Sports Illustrated: Championship Football & Baseball",
   ],
 };
 
